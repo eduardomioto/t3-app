@@ -438,10 +438,10 @@
   resolved "https://registry.yarnpkg.com/@trpc/react-query/-/react-query-11.0.0-rc.648.tgz#5725798e4832814d50dd234161e93d10a98f2074"
   integrity sha512-U3H6o/aN3umEA2QNDGRsaJb6M7zrffor2NQl2UaHOiLBHuXZ3ISI2fJXay7e32s1l6z5F5PGMGwTQtUedzWI2w==
 
-"@trpc/server@^11.0.0-rc.446":
-  version "11.0.0-rc.648"
-  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-11.0.0-rc.648.tgz#500a4ce795ea216059025e7a1ac44e773ff09768"
-  integrity sha512-nKW7FNM+QZrY/CVGlX3hFNIdUvbw6pwSJ+HzEF8GIeSJDKLHK7Ke1QJGI2mRW6oF9dCKMBXfuLaYY2dXfjfn7Q==
+"@trpc/server@^11.1.1":
+  version "11.1.2"
+  resolved "https://registry.yarnpkg.com/@trpc/server/-/server-11.1.2.tgz#2e506f767f6e6189121733dad3daea0a5423b98b"
+  integrity sha512-Oi9zWHG0ZDkbDo4sYkduoV7q4sIe6UwjrRLC91vNMYQK+PVgpbTCmK1laRwewAGu0zaayqcGDosANjceOIC3GA==
 
 "@types/cookie@0.6.0":
   version "0.6.0"
